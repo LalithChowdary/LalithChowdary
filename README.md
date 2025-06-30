@@ -175,7 +175,7 @@ class LalithChowdary:
     def __init__(self):
         self.name = "Lalith Chowdary Vasireddy"
         self.role = "Full-Stack Developer"
-        self.location = "Hyderabad, India"
+        self.location = "Vijayawada, India"
         self.languages = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
         self.current_focus = [
             "Building LLM-driven AI assistants",
