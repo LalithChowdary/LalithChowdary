@@ -206,20 +206,6 @@ print(f"👋 Hello! I'm {me.name}, passionate about {', '.join(me.current_focus)
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Assistant** | LLM-driven intelligent assistant | Python, FastAPI, LangGraph |
-| 👁️ **Vision App** | Real-time computer vision system | OpenCV, MediaPipe, WebSocket |
-| 🌐 **Full-Stack Platform** | Scalable web application | React, Next.js, PostgreSQL |
-| 📱 **Mobile Solution** | Cross-platform mobile app | React Native, Node.js |
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
